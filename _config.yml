@@ -3,4 +3,4 @@ defaults:
       path: ""
       type: "pages"
     values:
-      permalink: /index.html
+      permalink: /index.html/
